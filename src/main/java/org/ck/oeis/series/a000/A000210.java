@@ -1,7 +1,7 @@
 package org.ck.oeis.series.a000;
 
 import org.ck.oeis.Series;
-import org.ck.oeis.common.BeattySeries;
+import org.ck.oeis.common.iterators.BeattySeries;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

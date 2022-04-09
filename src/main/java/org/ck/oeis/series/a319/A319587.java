@@ -1,7 +1,7 @@
 package org.ck.oeis.series.a319;
 
 import org.ck.oeis.Series;
-import org.ck.oeis.common.FiniteSeries;
+import org.ck.oeis.common.iterators.FiniteSeries;
 
 import java.math.BigInteger;
 import java.util.Spliterator;

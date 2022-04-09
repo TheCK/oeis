@@ -1,4 +1,4 @@
-package org.ck.oeis.common;
+package org.ck.oeis.common.iterators;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

@@ -46,7 +46,7 @@ public class TestTest {
     int count = 0;
     long begin = System.nanoTime();
 
-    for (int i = 1; i < 320000; ++i) {
+    for (int i = 1; i < 350000; ++i) {
       try {
         final Series series = OEIS.get(String.format("A%06d", i));
 

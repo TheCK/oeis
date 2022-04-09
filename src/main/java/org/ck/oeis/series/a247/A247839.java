@@ -2,7 +2,7 @@ package org.ck.oeis.series.a247;
 
 import org.ck.oeis.OEIS;
 import org.ck.oeis.Series;
-import org.ck.oeis.common.FirstOfLengthSeries;
+import org.ck.oeis.common.iterators.FirstOfLengthSeries;
 
 import java.math.BigInteger;
 import java.util.Spliterator;

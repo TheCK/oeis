@@ -1,7 +1,7 @@
 package org.ck.oeis.series.a282;
 
 import org.ck.oeis.Series;
-import org.ck.oeis.common.PowerPrimeSeries;
+import org.ck.oeis.common.iterators.PowerPrimeSeries;
 
 import java.math.BigInteger;
 import java.util.Spliterator;

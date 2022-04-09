@@ -1,7 +1,7 @@
 package org.ck.oeis.series.a000;
 
 import org.ck.oeis.Series;
-import org.ck.oeis.common.SumSeries;
+import org.ck.oeis.common.iterators.SumSeries;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
