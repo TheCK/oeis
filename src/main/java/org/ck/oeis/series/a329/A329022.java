@@ -16,7 +16,7 @@ class A329022 extends Series {
 
   public A329022() {
     super(
-        "\tSquares visited by a knight moving on a diagonal spiral numbered board and moving to the lowest available unvisited square at each step.");
+        "Squares visited by a knight moving on a diagonal spiral numbered board and moving to the lowest available unvisited square at each step.");
   }
 
   @Override
