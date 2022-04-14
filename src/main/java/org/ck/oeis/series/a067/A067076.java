@@ -9,10 +9,10 @@ import java.util.Spliterators;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
-class A087076 extends Series {
+class A067076 extends Series {
   private static final BigInteger THREE = BigInteger.valueOf(3);
 
-  public A087076() {
+  public A067076() {
     super("Numbers k such that 2*k + 3 is a prime.");
   }
 
